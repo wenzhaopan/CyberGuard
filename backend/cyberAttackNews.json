@@ -1,0 +1,191 @@
+[
+    {
+        "id": 20803862834232102147479875219221739119,
+        "headlines": "U.S. Sanctions Chinese Cybersecurity Firm Over Treasury Hack Tied to Silk Typhoon",
+        "author": "N/A",
+        "fullNews": "The U.S. Treasury Department's Office of Foreign Assets Control (OFAC) has imposed sanctions against a Chinese cybersecurity company and a Shanghai-based cyber actor for their alleged links to the Salt Typhoon group and the recent compromise of the federal agency.  \"People's Republic of China-linked (PRC) malicious cyber actors continue to target U.S. government systems, including the recent targeting of Treasury's information technology (IT) systems, as well as sensitive U.S. critical infrastructure,\" the Treasury said  in a press release.  The sanctions target Yin Kecheng, who is assessed to have been a cyber actor for over a decade and affiliated with China's Ministry of State Security (MSS). Kecheng, per the Treasury, was associated with the breach of its own network  that came to light earlier this month.  The incident involved a hack of BeyondTrust's systems  that allowed the threat actors to infiltrate some of the company's Remote Support SaaS inst...",
+        "newsURL": "https://thehackernews.com/2025/01/us-sanctions-chinese-cybersecurity-firm.html",
+        "newsImgURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWVZ5CLaVHKfiCltNw-azNG7yA20nZJj9UCoqxFoy1fX-2SxpJS5u094_FPvrTeOp3UeJMRXI_HohTyNL6ML_TaX75LCaqUUberQE6VVm91xEjI3_JYbz8oYx3_ahCuyc7RQ3eoo-6Z2jplT3UNl47_gc3L9ZFuFA3YRBn__0-VumN0Ca4qfEJzpNqEMJV/w500/chinese.png",
+        "newsDate": "Jan 18, 2025"
+    },
+    {
+        "id": 13806213079514354509588999340518028577,
+        "headlines": "RedDelta Deploys PlugX Malware to Target Mongolia and Taiwan in Espionage Campaigns",
+        "author": "Cyber Espionage Telecom Security",
+        "fullNews": "Mongolia, Taiwan, Myanmar, Vietnam, and Cambodia have been targeted by the China-nexus RedDelta threat actor to deliver a customized version of the PlugX backdoor between July 2023 and December 2024.  \"The group used lure documents themed around the 2024 Taiwanese presidential candidate Terry Gou, the Vietnamese National Holiday, flood protection in Mongolia, and meeting invitations, including an Association of Southeast Asian Nations (ASEAN) meeting,\" Recorded Future's Insikt Group said  in a new analysis.  It's believed that the threat actor compromised the Mongolian Ministry of Defense in August 2024 and the Communist Party of Vietnam in November 2024. It's also said to have targeted various victims in Malaysia, Japan, the United States, Ethiopia, Brazil, Australia, and India from September to December 2024.  RedDelta, active since at least 2012, is the moniker assigned to a state-sponsored threat actor from China. It's also tracked by the cybersecurity co...",
+        "newsURL": "https://thehackernews.com/2025/01/reddelta-deploys-plugx-malware-to.html",
+        "newsImgURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhH3r8yHgiF5PMS4ydFkoUPCd8fK80VP2z60KlqwGHoBnmeiW2hGo1J-hWHDuugaxQ6bQGLBJRVPKGocV2-pYaRKHh75gLdzURwn0DzZjFCrdAQ_GKlBk8TsTGR_dcTK6hc0eHt_zZZdDbAedR0Sk6RR8IJgZQ2t40s9PuZh_nx5cnrHfLntxz2tmXyYF-N/w500/chinese-hackers.png",
+        "newsDate": "Jan 10, 2025"
+    },
+    {
+        "id": 111465360162980800535771384273490886917,
+        "headlines": "Future-Ready Trust: Learn How to Manage Certificates Like Never Before",
+        "author": "N/A",
+        "fullNews": "Managing digital trust shouldn't feel impossible. Join us to discover how DigiCert ONE transforms certificate management—streamlining trust operations, ensuring compliance, and future-proofing your digital strategy.",
+        "newsURL": "https://thehacker.news/digital-trust-enterprise?source=newsfeed",
+        "newsImgURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSUcZN5P-13iNj0NpXjDQu_GqoK33so-5UWmu5RGwSZI5ySnjx9JrzJ_3YfAb6aiFieLjzmTZ7De0eiQ4ljqE3HPCfT0c9MKYImMZjZ8h9fSOxXVzdn9bEKVEJD_ee_zSfyg9fCGIL-5afaXSAiMZ7qHwlsi_HTEYCvqA-lt1mFUZ16gd-oreR-n2CPWW2/w500/digi.png",
+        "newsDate": "WebinarTrust Management / SSL Certificate"
+    },
+    {
+        "id": 226741094596220062447132278629045374032,
+        "headlines": "Top 5 Malware Threats to Prepare Against in 2025",
+        "author": "Cyber Espionage Cyber Attack",
+        "fullNews": "2024 had its fair share of high-profile cyber attacks, with companies as big as Dell and TicketMaster falling victim to data breaches and other infrastructure compromises. In 2025, this trend will continue. So, to be prepared for any kind of malware attack, every organization needs to know its cyber enemy in advance. Here are 5 common malware families that you can start preparing to counter right now.  Lumma  Lumma is a widely available malware designed to steal sensitive information. It has been openly sold on the Dark Web since 2022. This malware can effectively collect and exfiltrate data from targeted applications, including login credentials, financial information, and personal details.  Lumma is regularly updated to enhance its capabilities. It can log detailed information from compromised systems, such as browsing history and cryptocurrency wallet data. It can be used to install other malicious software on infected devices. In 2024, Lumma was distributed through various methods...",
+        "newsURL": "https://thehackernews.com/2025/01/top-5-malware-threats-to-prepare.html",
+        "newsImgURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSHl1lOzOTW49RLVW7pnESvdVkjr_sN324MDZ_Dnehg3PDuzwY7SLsTSocro3oaGi6itIkKn2ze38yDsyNJ1SisC0Va-bYcB5nLqq_VxQGh8xQqEHloFrLETXTnk-cnCjOnO2VjaySzj1TGXDDcdcXO909CtxNJ3I0Aium3CYR9W3QBYc_I8she61WGCs/w500/top-5-malware.png",
+        "newsDate": "Jan 08, 2025"
+    },
+    {
+        "id": 95599884879701317285179043680176852450,
+        "headlines": "Secure Your Azure: Proactive Tips for Cloud Protection",
+        "author": "Webinar",
+        "fullNews": "Discover how to boost your Azure cloud security with practical steps to help you maintain control and visibility.",
+        "newsURL": "https://thehackernews.uk/azure-visibility-cheat-sheet-wiz",
+        "newsImgURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXOWJFbn-vEhKnRcPPy5ADdXReCpBirhoxuXbg-4Ua1EbT30r9WPJ11jv-8ZUx5eLZTWwS5jiEsDXEMAyMlQOVVpp9MvEvXiiIXJCQDTc2AxwgCsA-3xz-Z9dzEmknFFbk64p1AUjxi-FldUn3iqr84haCpth2IJBfg2V-anVkteC1u3vbZo2WziNPHmIj/s728-e100/wizz.png",
+        "newsDate": "WizCloud Security"
+    },
+    {
+        "id": 295480824579681031109028997239744085302,
+        "headlines": "CISA: No Wider Federal Impact from Treasury Cyber Attack, Investigation Ongoing",
+        "author": "Trust Management SSL Certificate",
+        "fullNews": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday said there are no indications that the cyber attack targeting the Treasury Department impacted other federal agencies.  The agency said it's working closely with the Treasury Department and BeyondTrust to get a better understanding of the breach and mitigate its impacts.  \"The security of federal systems and the data they protect is of critical importance to our national security,\" CISA said . \"We are working aggressively to safeguard against any further impacts and will provide updates, as appropriate.\"  The latest statement comes a week after the Treasury Department said  it was the victim of a \"major cybersecurity incident\" that allowed Chinese state-sponsored threat actors to remotely access some computers and unclassified documents.  The cyber attack, which came to light in early December 2024, involved a breach of BeyondTrust's systems that allowed the adversary to in...",
+        "newsURL": "https://thehackernews.com/2025/01/cisa-no-wider-federal-impact-from.html",
+        "newsImgURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXL58Hcs4SgVDN9Dn3sIxEj7VaO_nY6vfh2_tiggpeY6PWrAmAGHKwqyNxmLK32wBKwlBVhVYMNpT19Hm2chpgBZSnFVYLZlWtVkmbbYpZAoimMdAYnsv8GD_1NbWR_jo7BD0Ibp_W8nKh82H-njxhG-TtcmzeFC_KIl5gKkvfoCvP7IamQ2qEVW2tUR-q/w500/cyberattack.png",
+        "newsDate": "Jan 07, 2025"
+    },
+    {
+        "id": 121484989428515146175726854133476124765,
+        "headlines": "⚡ THN Weekly Recap: Top Cybersecurity Threats, Tools and Tips [6 Jan]",
+        "author": "N/A",
+        "fullNews": "Every tap, click, and swipe we make online shapes our digital lives, but it also opens doors—some we never meant to unlock. Extensions we trust, assistants we rely on, and even the codes we scan are turning into tools for attackers. The line between convenience and vulnerability has never been thinner.  This week, we dive into the hidden risks, surprising loopholes, and the clever tricks cybercriminals are using to outsmart the systems we depend on.  Stay with us as we unpack what's happening behind the screen and how you can stay one step ahead.  ⚡ Threat of the Week  Dozens of Google Chrome Extensions Caught Stealing Sensitive Data — The challenges with securing the software supply chain reared once again after about three dozen extensions were found surreptitiously siphoning sensitive data  from roughly 2.6 million devices for several months as part of two related campaigns. The compromises came to light after data loss prevention service Cyberhaven revealed that its browser extens...",
+        "newsURL": "https://thehackernews.com/2025/01/thn-weekly-recap-top-cybersecurity.html",
+        "newsImgURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKokWQpcRQ55ARtaBLhn4X9RCRcf5u5YW7JaJaQrIrcU6A96dBP2IS5th1jhuZX0cQMO04KAMOZDxqEIcPdkAqGmkXMpHzV7L_CECca3FJ_ppgWQh9J0y8D02mSQbw-nzuf-FzDIN412s_F2AO-MGpfr95e-yMTzPjQqkl-WKo8jY1o6XMVvnF7bEmngEk/w500/recap.png",
+        "newsDate": "Jan 06, 2025"
+    },
+    {
+        "id": 280409603257996804432437795707880268197,
+        "headlines": "Cloud Atlas Deploys VBCloud Malware: Over 80% of Targets Found in Russia",
+        "author": "Malware Analysis Threat Intelligence",
+        "fullNews": "The threat actor known as Cloud Atlas  has been observed using a previously undocumented malware called VBCloud as part of its cyber attack campaigns targeting \"several dozen users\" in 2024.  \"Victims get infected via phishing emails containing a malicious document that exploits a vulnerability in the formula editor (CVE-2018-0802) to download and execute malware code,\" Kaspersky researcher Oleg Kupreev said  in an analysis published this week.  More than 80% of the targets were located in Russia. A lesser number of victims have been reported from Belarus, Canada, Moldova, Israel, Kyrgyzstan, Turkey, and Vietnam.  Also referred to as Clean Ursa, Inception, Oxygen, and Red October, Cloud Atlas is an unattributed threat activity cluster  that has been active since 2014. In December 2022, the group was linked to cyber attacks aimed at Russia, Belarus, and Transnistria that deployed a PowerShell-based backdoor called PowerShower.   Then exactly a year later, Russian cy...",
+        "newsURL": "https://thehackernews.com/2024/12/cloud-atlas-deploys-vbcloud-malware.html",
+        "newsImgURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaN-MYQSVnmKu_fXqRe1-eYRuk9TiwR7wZL2SCFqAu78prSbWpd6obdN1q62e2YqoehqMvxANUfKYZBDKcOg6dMR1w4BMwiQs-gu6-nx0rx5AQuS50EihQskGaZ8jlU94U32hi9jF8b3e74Hn5NsDO1lVhIn6y_C3noeYsKU6GBZ5aw6S2IjJ0od4VRh5h/w500/cloud.png",
+        "newsDate": "Dec 27, 2024"
+    },
+    {
+        "id": 302992107810870977004710494482677395266,
+        "headlines": "FICORA and Kaiten Botnets Exploit Old D-Link Vulnerabilities for Global Attacks",
+        "author": "Cloud Security",
+        "fullNews": "Cybersecurity researchers are warning about a spike in malicious activity that involves roping vulnerable D-Link routers into two different botnets, a Mirai  variant dubbed FICORA and a Kaiten  (aka Tsunami) variant called CAPSAICIN.  \"These botnets are frequently spread through documented D-Link vulnerabilities that allow remote attackers to execute malicious commands via a GetDeviceSettings action on the HNAP (Home Network Administration Protocol) interface,\" Fortinet FortiGuard Labs researcher Vincent Li said  in a Thursday analysis.  \"This HNAP weakness was first exposed almost a decade ago, with numerous devices affected by a variety of CVE numbers, including CVE-2015-2051 , CVE-2019-10891 , CVE-2022-37056 , and CVE-2024-33112 .\"   According to the cybersecurity company's telemetry data, attacks involving FICORA have targeted various countries globally, whereas those related to CAPSAICIN primarily singled out East Asian territories like Japan and Taiwan. T...",
+        "newsURL": "https://thehackernews.com/2024/12/ficora-and-kaiten-botnets-exploit-old-d.html",
+        "newsImgURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPQIv1DE04JbZFZe-ocsLLDeKiOSZPg7KE8HyGebKlXtKPTeBSUJnAs_lLGgfuMBtV__U2gj_fOTK2rQoGyhPmksWQb4G89S4MaGSfuSN0FtSDKmH37b8O2xE2IZX6Ls1CgpCQV4LXftNfEK75mMAVRubho1sFnbI324jQar9HTQPIiQLGRqzHhT2bZnKv/w500/botnet.png",
+        "newsDate": "Dec 27, 2024"
+    },
+    {
+        "id": 101033365124580607923559116757417260827,
+        "headlines": "⚡ THN Weekly Recap: Top Cybersecurity Threats, Tools and Tips",
+        "author": "N/A",
+        "fullNews": "The online world never takes a break, and this week shows why. From ransomware creators being caught to hackers backed by governments trying new tricks, the message is clear: cybercriminals are always changing how they attack, and we need to keep up.  Hackers are using everyday tools in harmful ways, hiding spyware in trusted apps, and finding new ways to take advantage of old security gaps. These events aren't random—they show just how clever and flexible cyber threats can be.  In this edition, we'll look at the most important cyber events from the past week and share key takeaways to help you stay safe and prepared. Let's get started.  ⚡ Threat of the Week  LockBit Developer Rostislav Panev Charged in the U.S. — Rostislav Panev, a 51-year-old dual Russian and Israeli national, has been charged  in the U.S. for allegedly acting as the developer of the now-disrupted LockBit ransomware-as-a-service (RaaS) operation, netting about $230,000 between June 2022 and February 2024. Panev was ...",
+        "newsURL": "https://thehackernews.com/2024/12/thn-weekly-recap-top-cybersecurity.html",
+        "newsImgURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSsqeuJcghEA7WRKHHDplE0vIAAaA0YF5WGMKkUevb4Xn6DbQ-nIo7KYxZEwMHLaUufYc6qbZOfbdWM-_L2qdFkSVh3Ldqe0MPKRBO6uMns9Xd1kxPe7jV8fwC2XXUZAicXFINNdevKVpoDRbpd2gpCVII4zXjykYunoBOT3-vX8G9KXbc9L97wc9j2JJC/w500/weekly-recap.png",
+        "newsDate": "Dec 23, 2024"
+    },
+    {
+        "id": 332472793209861455378410312663095761884,
+        "headlines": "NPCI debunks new 'Jumped Deposit Scam' reports; clarifies 3 points to note",
+        "author": "N/A",
+        "fullNews": "NPCI Jumped Deposit Scam:  The National Payments Corporation of India clarified that reports of the 'Jumped Deposit' Scam do not reflect breaches on the Unified Payments Interface platform. Transactions on UPI require user intervention, and no external party can withdraw funds without the user's authorization, ensuring the platform's security.",
+        "newsURL": "/news/cybercrime-fraud/npci-debunks-new-jumped-deposit-scam-reports-clarifies-3-points-to-note/117253806?utm_source=category_listing&utm_medium=sectionListing",
+        "newsImgURL": "https://etimg.etb2bimg.com/thumb/img-size-1954073/117253806.cms?width=150&height=112",
+        "newsDate": "N/A"
+    },
+    {
+        "id": 240325501008058707288807991726986487662,
+        "headlines": "Growing complexity in cyberspace primes global cybersecurity outlook for 2025",
+        "author": "N/A",
+        "fullNews": "Almost 54% of large organisations have reported supply chain interdependencies as the biggest obstacle to achieving cyber resilience, According to  World Economic Forum's Global Cybersecurity Outlook 2025. 1 in 3 CEOs  had concerns about cyber espionage and loss of sensitive information/IP theft. Nearly 47% of organizations cite adversarial advancements powered by GenAI as their primary concern.",
+        "newsURL": "/news/cybercrime-fraud/growing-complexity-in-cyberspace-primes-global-cybersecurity-outlook-for-2025/117223985?utm_source=category_listing&utm_medium=sectionListing",
+        "newsImgURL": "https://etimg.etb2bimg.com/thumb/img-size-7574/117223985.cms?width=150&height=112",
+        "newsDate": "N/A"
+    },
+    {
+        "id": 176486203838332350683403850558358484179,
+        "headlines": "2025 cybersecurity storm: can businesses withstand the next wave of threats?",
+        "author": "N/A",
+        "fullNews": "Artificial Intelligence (AI) has been a game-changer for both cybersecurity professionals and cybercriminals. While most businesses are leveraging AI for threat detection and response, attackers are utilizing it to create more advanced and evasive malware, spear-phishing campaigns, and even AI-generated deepfake scams.",
+        "newsURL": "/news/cybercrime-fraud/2025-cybersecurity-storm-can-businesses-withstand-the-next-wave-of-threats/117222887?utm_source=category_listing&utm_medium=sectionListing",
+        "newsImgURL": "https://etimg.etb2bimg.com/thumb/img-size-6724/117222887.cms?width=150&height=112",
+        "newsDate": "N/A"
+    },
+    {
+        "id": 57174224037156679363600751741008376544,
+        "headlines": "Varsities must develop short cybersecurity courses: Guv",
+        "author": "N/A",
+        "fullNews": "All universities in Maharashtra will have to develop and implement short-term courses on cybersecurity, Governor CP Radhakrishnan said on Sunday, adding that these courses will help varsities create 'a new generation of cyber warriors'.",
+        "newsURL": "/news/cybercrime-fraud/varsities-must-develop-short-cybersecurity-courses-guv/117191103?utm_source=category_listing&utm_medium=sectionListing",
+        "newsImgURL": "https://etimg.etb2bimg.com/thumb/img-size-268384/117191103.cms?width=150&height=112",
+        "newsDate": "N/A"
+    },
+    {
+        "id": 186281191168428428022924618576940919041,
+        "headlines": "PayPal phishing attacks: how it works, identifying threats and precautions to take",
+        "author": "N/A",
+        "fullNews": "Using a novel \"no-phish phishing\" technique, PayPal customers are vulnerable to a sophisticated cybersecurity compromise that conceals fraudulent activity within authentic transactions, making detection challenging. PayPal has responded by advising users to use two-factor authentication and change their passwords in order to increase their security. Experts caution that this hack demonstrates an increasing pattern of hackers using sophisticated social engineering tactics to take advantage of customer trust.",
+        "newsURL": "/news/cybercrime-fraud/paypal-phishing-attacks-how-it-works-identifying-threats-and-precautions-to-take/117190503?utm_source=category_listing&utm_medium=sectionListing",
+        "newsImgURL": "https://etimg.etb2bimg.com/thumb/img-size-7738/117190503.cms?width=150&height=112",
+        "newsDate": "N/A"
+    },
+    {
+        "id": 215864500724884297139823369456669366410,
+        "headlines": "Jumped deposit scam: entering UPI pin casually can empty your bank account, know how you can protect yourself",
+        "author": "N/A",
+        "fullNews": "Jumped deposit scam: Scammers are using innovative methods to target UPI users these days. ​Sending money into your bank account is the easiest way of winning trust quickly. And when you enter your UPI pin to check any such deposit transaction, you end up falling prey to such frauds. Read below to know more about this latest UPI scam.",
+        "newsURL": "/news/cybercrime-fraud/jumped-deposit-scam-entering-upi-pin-casually-can-empty-your-bank-account-know-how-you-can-protect-yourself/117138460?utm_source=category_listing&utm_medium=sectionListing",
+        "newsImgURL": "https://etimg.etb2bimg.com/thumb/img-size-14058/117138460.cms?width=150&height=112",
+        "newsDate": "N/A"
+    },
+    {
+        "id": 91644240988025560129087878401607506710,
+        "headlines": "2 Airtel managers held for issuing virtual numbers to cyber fraudsters abroad",
+        "author": "N/A",
+        "fullNews": "Two Airtel managers in Gurgaon were arrested for issuing virtual phone numbers to Indonesian and Chinese cyber fraudsters. They were accused of facilitating fraud, resulting in a woman losing Rs 10,000 in a scam involving a fake work-from-home offer. Police have seized evidence and are continuing their investigation.",
+        "newsURL": "/news/cybercrime-fraud/2-airtel-managers-held-for-issuing-virtual-numbers-to-cyber-fraudsters-abroad/117138294?utm_source=category_listing&utm_medium=sectionListing",
+        "newsImgURL": "https://etimg.etb2bimg.com/thumb/img-size-634730/117138294.cms?width=150&height=112",
+        "newsDate": "N/A"
+    },
+    {
+        "id": 136875178278845512265034783129272237847,
+        "headlines": "Two employees of telecom company arrested for cyber fraud in Gurugram",
+        "author": "N/A",
+        "fullNews": "A cybercrime team of the Gurugram Police in Haryana have arrested two employees of a leading telecom company who had allegedly provided virtual numbers to Indonesian and Chinese fraudsters to cheat people through WhatsApp/Telegram in the name of part-time job/investment.",
+        "newsURL": "/news/cybercrime-fraud/two-employees-of-telecom-company-arrested-for-cyber-fraud-in-gurugram/117138168?utm_source=category_listing&utm_medium=sectionListing",
+        "newsImgURL": "https://etimg.etb2bimg.com/thumb/img-size-42686/117138168.cms?width=150&height=112",
+        "newsDate": "N/A"
+    },
+    {
+        "id": 302519319116086526904395858644816417048,
+        "headlines": "24x7 vigilance must to keep cyber crooks out",
+        "author": "N/A",
+        "fullNews": "The demand for ‘cyber insurance' is on the rise with more organisations investing in firefighting capabilities and employing proactive systems.",
+        "newsURL": "/news/cybercrime-fraud/24x7-vigilance-must-to-keep-cyber-crooks-out/117138118?utm_source=category_listing&utm_medium=sectionListing",
+        "newsImgURL": "https://etimg.etb2bimg.com/thumb/img-size-18176/117138118.cms?width=150&height=112",
+        "newsDate": "N/A"
+    },
+    {
+        "id": 187333963663805504672413197491766456518,
+        "headlines": "Pope warns about AI, fake news and 'manipulating minds'",
+        "author": "N/A",
+        "fullNews": "Pope Francis warns of the dangers of misinformation spread via social media and AI, highlighting its potential to manipulate minds for economic, political, and ideological purposes. Emphasizing media literacy education, he also criticises 'cancel culture' and the reinterpretation of human rights, particularly concerning the right to life.",
+        "newsURL": "/news/cybercrime-fraud/pope-warns-about-ai-fake-news-and-manipulating-minds/117106479?utm_source=category_listing&utm_medium=sectionListing",
+        "newsImgURL": "https://etimg.etb2bimg.com/thumb/img-size-66308/117106479.cms?width=150&height=112",
+        "newsDate": "N/A"
+    },
+    {
+        "id": 10916206745454214803107068732301530144,
+        "headlines": "Outlook 2025: India Inc CFOs to allocate major IT budgets to Cloud, AI, cybersecurity and automation",
+        "author": "N/A",
+        "fullNews": "India Inc's IT spending is poised for significant growth in 2025, with CFOs prioritising cloud computing, AI, automation, cybersecurity, and sustainability, driving digital transformation and operational efficiency across sectors.",
+        "newsURL": "/news/cybercrime-fraud/outlook-2025-india-inc-cfos-to-allocate-major-it-budgets-to-cloud-ai-cybersecurity-and-automation/117087040?utm_source=category_listing&utm_medium=sectionListing",
+        "newsImgURL": "https://etimg.etb2bimg.com/thumb/img-size-14528/117087040.cms?width=150&height=112",
+        "newsDate": "N/A"
+    }
+]
