@@ -1,105 +1,6 @@
 [
     {
-        "id": 265976021280739559725675073610291971529,
-        "headlines": "Government has a ‘warning’ for these Apple Watch users",
-        "author": "N/A",
-        "fullNews": "For those unintended, CERT-IN is a nodal agency under the Ministry of Electronics and Information Technology. The government body is responsible for highlighting bugs and cybersecurity threats like phishing and hacking.",
-        "newsURL": "/news/government-has-a-warning-for-these-apple-watch-users/93105437?utm_source=tagListing&utm_medium=tagListing",
-        "newsImgURL": "https://etimg.etb2bimg.com/thumb/93105437.cms?width=150&height=112",
-        "newsDate": "N/A"
-    },
-    {
-        "id": 321870593830079919496972956616181153780,
-        "headlines": "Apple and Android phones hacked by Italian spyware, Google says",
-        "author": "N/A",
-        "fullNews": "Milan-based RCS Lab, whose website claims European law enforcement agencies as clients, developed tools to spy on private messages and contacts of the targeted devices, the report said.",
-        "newsURL": "/news/apple-and-android-phones-hacked-by-italian-spyware-google-says/92423954?utm_source=tagListing&utm_medium=tagListing",
-        "newsImgURL": "https://etimg.etb2bimg.com/thumb/92423954.cms?width=150&height=112",
-        "newsDate": "N/A"
-    },
-    {
-        "id": 95567237102429750708258696513391094013,
-        "headlines": "Canada wants companies to report cyber attacks and hacking incidents",
-        "author": "N/A",
-        "fullNews": "\"There was a lot of thought given into identifying which sectors are vital to national security and public safety,\" Public Safety Minister Marco Mendicino told reporters, adding that operators of critical infrastructure would be identified after consulting the sectors.",
-        "newsURL": "/news/canada-wants-companies-to-report-cyber-attacks-and-hacking-incidents/92216497?utm_source=tagListing&utm_medium=tagListing",
-        "newsImgURL": "https://etimg.etb2bimg.com/thumb/92216497.cms?width=150&height=112",
-        "newsDate": "N/A"
-    },
-    {
-        "id": 196980409984522998677833522143039761074,
-        "headlines": "Some N.Koreans find ways around govt smartphone controls, report says",
-        "author": "N/A",
-        "fullNews": "\"The scale of the hacking still appears to be minor, but recent changes to North Korean law indicate national authorities view it as a serious problem,\" Lumen, a U.S.-based non-profit founded to provide North Koreans with access to uncensored information and media, said in report issued this week.",
-        "newsURL": "/news/some-n-koreans-find-ways-around-govt-smartphone-controls-report-says/91144672?utm_source=tagListing&utm_medium=tagListing",
-        "newsImgURL": "https://etimg.etb2bimg.com/thumb/91144672.cms?width=150&height=112",
-        "newsDate": "N/A"
-    },
-    {
-        "id": 162945961843086173409290209010187399045,
-        "headlines": "Lapsus$ hacks into T-Mobile, gains access to internal tools",
-        "author": "N/A",
-        "fullNews": "Revealed by security journalist Brian Krebs, the data breach gave Lapsus$ access to T-Mobile's network by compromising employee accounts, \"either by buying leaked credentials or through social engineering\".",
-        "newsURL": "/news/lapsus-hacks-into-t-mobile-gains-access-to-internal-tools/91022693?utm_source=tagListing&utm_medium=tagListing",
-        "newsImgURL": "https://etimg.etb2bimg.com/thumb/91022693.cms?width=150&height=112",
-        "newsDate": "N/A"
-    },
-    {
-        "id": 154869199005729789780876720781470714581,
-        "headlines": "Israeli charged in global hacker-for-hire scheme pleads guilty",
-        "author": "N/A",
-        "fullNews": "Five people familiar with the case say that Azari is being charged in relation to New Delhi-based BellTroX InfoTech Services, which Reuters last year reported was behind a hacking campaign that targeted lawyers, government officials, businessmen, investors and activists around the world.",
-        "newsURL": "/news/israeli-charged-in-global-hacker-for-hire-scheme-pleads-guilty/90969681?utm_source=tagListing&utm_medium=tagListing",
-        "newsImgURL": "https://etimg.etb2bimg.com/thumb/90969681.cms?width=150&height=112",
-        "newsDate": "N/A"
-    },
-    {
-        "id": 295476738997749248728697145539664140590,
-        "headlines": "Lapsus$ hackers 'access' health data from Apple Watch",
-        "author": "N/A",
-        "fullNews": "\"We have recently detected that a limited section of our company's code repository has been subject to unauthorized access. We have activated our security protocols and are conducting an exhaustive investigation,\" Globant, acknowledging the hack, said in a statement.",
-        "newsURL": "/news/lapsus-hackers-access-health-data-from-apple-watch/90588975?utm_source=tagListing&utm_medium=tagListing",
-        "newsImgURL": "https://etimg.etb2bimg.com/thumb/90588975.cms?width=150&height=112",
-        "newsDate": "N/A"
-    },
-    {
-        "id": 157389516598860396230874248551861421498,
-        "headlines": "GoDaddy security breach exposes WordPress users' data",
-        "author": "N/A",
-        "fullNews": "GoDaddy Inc said email addresses of up to 1.2 million active and inactive Managed WordPress customers had been exposed in an unauthorised third-party access.",
-        "newsURL": "/news/godaddy-security-breach-exposes-wordpress-users-data/87863788?utm_source=tagListing&utm_medium=tagListing",
-        "newsImgURL": "https://etimg.etb2bimg.com/thumb/87863788.cms?width=150&height=112",
-        "newsDate": "N/A"
-    },
-    {
-        "id": 144987031904457240202304673352327932689,
-        "headlines": "Spies for Hire: China’s new breed of hackers blends espionage and entrepreneurship",
-        "author": "N/A",
-        "fullNews": "Sponsored but not necessarily micromanaged by Beijing, this new breed of hacker attacks government targets and private companies alike, mixing traditional espionage with outright fraud and other crimes for profit.",
-        "newsURL": "/news/spies-for-hire-chinas-new-breed-of-hackers-blends-espionage-and-entrepreneurship/85678619?utm_source=tagListing&utm_medium=tagListing",
-        "newsImgURL": "https://etimg.etb2bimg.com/thumb/85678619.cms?width=150&height=112",
-        "newsDate": "N/A"
-    },
-    {
-        "id": 287676541519972415331954333992145944076,
-        "headlines": "1.7 million affected by hack of top Japan dating app",
-        "author": "N/A",
-        "fullNews": "The personal data of more than a million users of one of Japan's most popular dating apps may have been exposed by a hack, its operator has warned.",
-        "newsURL": "/news/1-7-million-affected-by-hack-of-top-japan-dating-app/82906922?utm_source=tagListing&utm_medium=tagListing",
-        "newsImgURL": "https://etimg.etb2bimg.com/thumb/82906922.cms?width=150&height=112",
-        "newsDate": "N/A"
-    },
-    {
-        "id": 124913079109086865396398915645184433140,
-        "headlines": "SolarWinds hack got emails of top DHS officials",
-        "author": "N/A",
-        "fullNews": "The Biden administration has tried to keep a tight lid on the scope of the SolarWinds attack as it weighs retaliatory measures against Russia. But an inquiry by the found new details about the breach at DHS and other agencies, including the Energy Department, where hackers accessed top officials' private schedules.",
-        "newsURL": "/news/solarwinds-hack-got-emails-of-top-dhs-officials/81752333?utm_source=tagListing&utm_medium=tagListing",
-        "newsImgURL": "https://etimg.etb2bimg.com/thumb/81752333.cms?width=150&height=112",
-        "newsDate": "N/A"
-    },
-    {
-        "id": 70614523602409416774029163578614089035,
+        "id": 333413218132942065984308112945559189480,
         "headlines": "Darktrace announces proposed acquisition of Cado Security",
         "author": "N/A",
         "fullNews": "Darktrace intends to accelerate the growth of Cado's existing products through investment while also combining Cado's forensic investigation technology with Darktrace's existing ActiveAI Security Platform™.",
@@ -108,7 +9,7 @@
         "newsDate": "N/A"
     },
     {
-        "id": 134864321597242155117590836588490160308,
+        "id": 19703610391797534309612657932823395572,
         "headlines": "Veracode acquires Phylum to transform software supply chain security",
         "author": "N/A",
         "fullNews": "The acquisition enhances Veracode’s ability to identify and block malicious code in open-source libraries, marking continued investment in its software supply chain risk management capabilities.",
@@ -117,7 +18,7 @@
         "newsDate": "N/A"
     },
     {
-        "id": 121810262387481850787343133484734924631,
+        "id": 303926278351225008377775258835704210930,
         "headlines": "Cymulate acquires CYNC Secure to accelerate continuous threat exposure management",
         "author": "N/A",
         "fullNews": "This strategic acquisition will accelerate time-to-market for the comprehensive Continuous Threat Exposure Management (CTEM) platform that Cymulate will launch in 2025, incorporating CYNC Secure’s unique approach to consolidating diverse vulnerability datasets.",
@@ -126,7 +27,7 @@
         "newsDate": "N/A"
     },
     {
-        "id": 11317744874963619746883795751679316932,
+        "id": 15471405611789406806995190107213612463,
         "headlines": "Phishing clicks tripled in 2024, ubiquitous personal cloud and GenAI usage requires modern security: Netskope",
         "author": "N/A",
         "fullNews": "Despite organisations' repeated attempts at security awareness training, with a particular emphasis on how employees can avoid being phished, in 2024 enterprise users clicked on phishing lures at a rate nearly three times higher than in 2023.",
@@ -135,7 +36,7 @@
         "newsDate": "N/A"
     },
     {
-        "id": 118175786850257800556452152127515291938,
+        "id": 174068282259843039454416678237796467164,
         "headlines": "Dragos and Singapore’s Digital and Intelligence Service partner for enhancing global cybersecurity",
         "author": "N/A",
         "fullNews": "Kurt Gaudette, Senior Vice President of Intelligence and Services at Dragos, and Brigadier-General (BG) Edward Chen, DIS Defence Cyber Chief, signed the three-year agreement on the sidelines of the Critical Infrastructure Defence Exercise (CIDeX) 2024 in Singapore.",
@@ -144,7 +45,7 @@
         "newsDate": "N/A"
     },
     {
-        "id": 160589938695959924508987395049417015168,
+        "id": 114698784332520938856418462659755110139,
         "headlines": "Taiwan faces surge in cyberattacks, mostly from China",
         "author": "N/A",
         "fullNews": "According to the NSB report, Taiwan's government networks faced an average of 2.4 million cyberattacks per day in 2024. This represents a staggering increase of over 100 per cent compared to the 1.2 million daily average in 2023.",
@@ -153,7 +54,7 @@
         "newsDate": "N/A"
     },
     {
-        "id": 11384298669771614136265909333100348086,
+        "id": 167947688337120474836687003919162715799,
         "headlines": "Know Your CISO: Silvia Lam Ihensekhien",
         "author": "N/A",
         "fullNews": "In this edition of our Know Your CISO series, we talked with Silvia Lam Ihensekhien, Director of Information Security and Risk Management, Swire Coca-Cola, based out of Hong Kong, about her learnings from more than two decades of experience in Information technology, cybersecurity and risk management.",
@@ -162,7 +63,7 @@
         "newsDate": "N/A"
     },
     {
-        "id": 331209283193013679903618265808369816512,
+        "id": 297409269615832975253341397749764763204,
         "headlines": "38% of firms cite downtime, lost productivity as major issues from weak IT security: Kaspersky",
         "author": "N/A",
         "fullNews": "As per a new Kaspersky report, downtime and lost productivity are the most concerning business problems caused by ineffective IT security, an opinion expressed by 38% of companies. They encounter this problem mainly because of long time taken to detect, respond to, and remediate threats.",
@@ -171,7 +72,7 @@
         "newsDate": "N/A"
     },
     {
-        "id": 59240019937269642198621759725862985183,
+        "id": 48924818963728935339278175237109301846,
         "headlines": "Funding Files: Cyber security, AI and cloud deal roundup",
         "author": "N/A",
         "fullNews": "Here’s a quick look at some of the funding deals and acquisitions that transpired in December in the cloud, data, cybersecurity, and AI space.",
@@ -180,7 +81,7 @@
         "newsDate": "N/A"
     },
     {
-        "id": 144426563025233731200448244770583054909,
+        "id": 269915795701216639208470412652918991473,
         "headlines": "United States, The Asia Foundation launch initiative to boost cyber resilience of Philippine Human Rights Groups",
         "author": "N/A",
         "fullNews": "Cybersecurity experts from The Asia Foundation will work closely with national human rights coalitions to design and deliver trainings in risk management, digital security assessments, phishing awareness, and the adoption of cybersecurity protocols.",
@@ -189,12 +90,111 @@
         "newsDate": "N/A"
     },
     {
-        "id": 204514103772251288476087163879799266946,
+        "id": 228378957312001634784658020567075237131,
         "headlines": "US Treasury says Chinese hackers stole documents in 'major incident'",
         "author": "N/A",
         "fullNews": "The hackers compromised third-party cybersecurity service provider BeyondTrust and were able to access unclassified documents.",
         "newsURL": "/news/security/us-treasury-says-chinese-hackers-stole-documents-in-major-incident/116814002?utm_source=category_listing&utm_medium=sectionListing",
         "newsImgURL": "https://etimg.etb2bimg.com/thumb/img-size-88224/116814002.cms?width=150&height=112",
+        "newsDate": "N/A"
+    },
+    {
+        "id": 217652582491306501532926452605954224773,
+        "headlines": "Government has a ‘warning’ for these Apple Watch users",
+        "author": "N/A",
+        "fullNews": "For those unintended, CERT-IN is a nodal agency under the Ministry of Electronics and Information Technology. The government body is responsible for highlighting bugs and cybersecurity threats like phishing and hacking.",
+        "newsURL": "/news/government-has-a-warning-for-these-apple-watch-users/93105437?utm_source=tagListing&utm_medium=tagListing",
+        "newsImgURL": "https://etimg.etb2bimg.com/thumb/93105437.cms?width=150&height=112",
+        "newsDate": "N/A"
+    },
+    {
+        "id": 221598072923390046669103626512678892637,
+        "headlines": "Apple and Android phones hacked by Italian spyware, Google says",
+        "author": "N/A",
+        "fullNews": "Milan-based RCS Lab, whose website claims European law enforcement agencies as clients, developed tools to spy on private messages and contacts of the targeted devices, the report said.",
+        "newsURL": "/news/apple-and-android-phones-hacked-by-italian-spyware-google-says/92423954?utm_source=tagListing&utm_medium=tagListing",
+        "newsImgURL": "https://etimg.etb2bimg.com/thumb/92423954.cms?width=150&height=112",
+        "newsDate": "N/A"
+    },
+    {
+        "id": 195852836289566246636866721870317906440,
+        "headlines": "Canada wants companies to report cyber attacks and hacking incidents",
+        "author": "N/A",
+        "fullNews": "\"There was a lot of thought given into identifying which sectors are vital to national security and public safety,\" Public Safety Minister Marco Mendicino told reporters, adding that operators of critical infrastructure would be identified after consulting the sectors.",
+        "newsURL": "/news/canada-wants-companies-to-report-cyber-attacks-and-hacking-incidents/92216497?utm_source=tagListing&utm_medium=tagListing",
+        "newsImgURL": "https://etimg.etb2bimg.com/thumb/92216497.cms?width=150&height=112",
+        "newsDate": "N/A"
+    },
+    {
+        "id": 222116001767691293014959777845472345953,
+        "headlines": "Some N.Koreans find ways around govt smartphone controls, report says",
+        "author": "N/A",
+        "fullNews": "\"The scale of the hacking still appears to be minor, but recent changes to North Korean law indicate national authorities view it as a serious problem,\" Lumen, a U.S.-based non-profit founded to provide North Koreans with access to uncensored information and media, said in report issued this week.",
+        "newsURL": "/news/some-n-koreans-find-ways-around-govt-smartphone-controls-report-says/91144672?utm_source=tagListing&utm_medium=tagListing",
+        "newsImgURL": "https://etimg.etb2bimg.com/thumb/91144672.cms?width=150&height=112",
+        "newsDate": "N/A"
+    },
+    {
+        "id": 215795949999817139164037334122441847125,
+        "headlines": "Lapsus$ hacks into T-Mobile, gains access to internal tools",
+        "author": "N/A",
+        "fullNews": "Revealed by security journalist Brian Krebs, the data breach gave Lapsus$ access to T-Mobile's network by compromising employee accounts, \"either by buying leaked credentials or through social engineering\".",
+        "newsURL": "/news/lapsus-hacks-into-t-mobile-gains-access-to-internal-tools/91022693?utm_source=tagListing&utm_medium=tagListing",
+        "newsImgURL": "https://etimg.etb2bimg.com/thumb/91022693.cms?width=150&height=112",
+        "newsDate": "N/A"
+    },
+    {
+        "id": 4297453629455571965340477071891217116,
+        "headlines": "Israeli charged in global hacker-for-hire scheme pleads guilty",
+        "author": "N/A",
+        "fullNews": "Five people familiar with the case say that Azari is being charged in relation to New Delhi-based BellTroX InfoTech Services, which Reuters last year reported was behind a hacking campaign that targeted lawyers, government officials, businessmen, investors and activists around the world.",
+        "newsURL": "/news/israeli-charged-in-global-hacker-for-hire-scheme-pleads-guilty/90969681?utm_source=tagListing&utm_medium=tagListing",
+        "newsImgURL": "https://etimg.etb2bimg.com/thumb/90969681.cms?width=150&height=112",
+        "newsDate": "N/A"
+    },
+    {
+        "id": 44012503956861561009327655744327140411,
+        "headlines": "Lapsus$ hackers 'access' health data from Apple Watch",
+        "author": "N/A",
+        "fullNews": "\"We have recently detected that a limited section of our company's code repository has been subject to unauthorized access. We have activated our security protocols and are conducting an exhaustive investigation,\" Globant, acknowledging the hack, said in a statement.",
+        "newsURL": "/news/lapsus-hackers-access-health-data-from-apple-watch/90588975?utm_source=tagListing&utm_medium=tagListing",
+        "newsImgURL": "https://etimg.etb2bimg.com/thumb/90588975.cms?width=150&height=112",
+        "newsDate": "N/A"
+    },
+    {
+        "id": 113684351214811433399618725978656850763,
+        "headlines": "GoDaddy security breach exposes WordPress users' data",
+        "author": "N/A",
+        "fullNews": "GoDaddy Inc said email addresses of up to 1.2 million active and inactive Managed WordPress customers had been exposed in an unauthorised third-party access.",
+        "newsURL": "/news/godaddy-security-breach-exposes-wordpress-users-data/87863788?utm_source=tagListing&utm_medium=tagListing",
+        "newsImgURL": "https://etimg.etb2bimg.com/thumb/87863788.cms?width=150&height=112",
+        "newsDate": "N/A"
+    },
+    {
+        "id": 174632722867771426875329469139788007848,
+        "headlines": "Spies for Hire: China’s new breed of hackers blends espionage and entrepreneurship",
+        "author": "N/A",
+        "fullNews": "Sponsored but not necessarily micromanaged by Beijing, this new breed of hacker attacks government targets and private companies alike, mixing traditional espionage with outright fraud and other crimes for profit.",
+        "newsURL": "/news/spies-for-hire-chinas-new-breed-of-hackers-blends-espionage-and-entrepreneurship/85678619?utm_source=tagListing&utm_medium=tagListing",
+        "newsImgURL": "https://etimg.etb2bimg.com/thumb/85678619.cms?width=150&height=112",
+        "newsDate": "N/A"
+    },
+    {
+        "id": 316984103136602880840219068667901505411,
+        "headlines": "1.7 million affected by hack of top Japan dating app",
+        "author": "N/A",
+        "fullNews": "The personal data of more than a million users of one of Japan's most popular dating apps may have been exposed by a hack, its operator has warned.",
+        "newsURL": "/news/1-7-million-affected-by-hack-of-top-japan-dating-app/82906922?utm_source=tagListing&utm_medium=tagListing",
+        "newsImgURL": "https://etimg.etb2bimg.com/thumb/82906922.cms?width=150&height=112",
+        "newsDate": "N/A"
+    },
+    {
+        "id": 295389747998769041829113075959582625603,
+        "headlines": "SolarWinds hack got emails of top DHS officials",
+        "author": "N/A",
+        "fullNews": "The Biden administration has tried to keep a tight lid on the scope of the SolarWinds attack as it weighs retaliatory measures against Russia. But an inquiry by the found new details about the breach at DHS and other agencies, including the Energy Department, where hackers accessed top officials' private schedules.",
+        "newsURL": "/news/solarwinds-hack-got-emails-of-top-dhs-officials/81752333?utm_source=tagListing&utm_medium=tagListing",
+        "newsImgURL": "https://etimg.etb2bimg.com/thumb/81752333.cms?width=150&height=112",
         "newsDate": "N/A"
     }
 ]

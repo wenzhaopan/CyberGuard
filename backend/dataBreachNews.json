@@ -1,6 +1,6 @@
 [
     {
-        "id": 327154952912893617119583325769176196673,
+        "id": 250044848692847004546483725103467950593,
         "headlines": "European Privacy Group Sues TikTok and AliExpress for Illicit Data Transfers to China",
         "author": "N/A",
         "fullNews": "Austrian privacy non-profit None of Your Business (noyb) has filed complaints accusing companies like TikTok, AliExpress, SHEIN, Temu, WeChat, and Xiaomi of violating data protection regulations in the European Union by unlawfully transferring users' data to China.  The advocacy group is seeking an immediate suspension of such transfers, stating the companies in question cannot shield user data from being potentially accessed by the Chinese government. The complaints have been filed in Austria, Belgium, Greece, Italy, and the Netherlands.  \"Given that China is an authoritarian surveillance state, it is crystal clear that China doesn't offer the same level of data protection as the E.U.,\" Kleanthi Sardeli, data protection lawyer at noyb, said . \"Transferring Europeans' personal data is clearly unlawful – and must be terminated immediately.\"  Noyb noted that the companies have no choice but to comply with Chinese authorities' requests for access to d...",
@@ -9,7 +9,7 @@
         "newsDate": "Jan 17, 2025"
     },
     {
-        "id": 153435180488356720198660389639987094766,
+        "id": 89839889313494119287143901746714322161,
         "headlines": "The $10 Cyber Threat Responsible for the Biggest Breaches of 2024",
         "author": "Privacy Data Protection",
         "fullNews": "You can tell the story of the current state of stolen credential-based attacks in three numbers:   Stolen credentials were the #1 attacker action  in 2023/24, and the breach vector for 80% of web app attacks . (Source: Verizon).  Cybersecurity budgets grew again in 2024, with organizations now spending almost $1,100 per user  (Source: Forrester).   Stolen credentials on criminal forums cost as little as $10  (Source: Verizon).   Something doesn't add up. So, what's going on?  In this article, we'll cover:   What's contributing to the huge rise in account compromises linked to stolen creds and why existing approaches aren't working.   The world of murky intelligence on stolen credentials, and how to cut through the noise to find the true positives.  Recommendations for security teams to stop attackers from using stolen creds to achieve account takeover.   Stolen credential-based attacks are on the rise  There's clear evidence that identity attacks are now the #1 cyber threat f...",
@@ -18,7 +18,7 @@
         "newsDate": "Jan 16, 2025"
     },
     {
-        "id": 198238319635127020128348728719032946405,
+        "id": 101932379007456552649231397669014785556,
         "headlines": "Future-Ready Trust: Learn How to Manage Certificates Like Never Before",
         "author": "N/A",
         "fullNews": "Managing digital trust shouldn't feel impossible. Join us to discover how DigiCert ONE transforms certificate management—streamlining trust operations, ensuring compliance, and future-proofing your digital strategy.",
@@ -27,7 +27,7 @@
         "newsDate": "WebinarTrust Management / SSL Certificate"
     },
     {
-        "id": 108316557065990827218409345013721967703,
+        "id": 298806731142021598231915580448276767975,
         "headlines": "Google OAuth Vulnerability Exposes Millions via Failed Startup Domains",
         "author": "Identity Protection SaaS Security",
         "fullNews": "New research has pulled back the curtain on a \"deficiency\" in Google's \"Sign in with Google\" authentication flow that exploits a quirk in domain ownership to gain access to sensitive data.  \"Google's OAuth  login doesn't protect against someone purchasing a failed startup's domain and using it to re-create email accounts for former employees,\" Truffle Security co-founder and CEO Dylan Ayrey said  in a Monday report.   \"And while you can't access old email data, you can use those accounts to log into all the different SaaS products that the organization used.\"   The San Francisco-based company said the issue has the potential to put millions of American users' data at risk simply by purchasing a defunct domain associated with a failed startup and gaining unauthorized access to old employee accounts related to various applications like OpenAI ChatGPT, Slack, Notion, Zoom, and even HR systems.  \"The most sensitive accou...",
@@ -36,7 +36,7 @@
         "newsDate": "Jan 14, 2025"
     },
     {
-        "id": 163178870135181388777710209794446273400,
+        "id": 111266582532908506752429537058085418699,
         "headlines": "Secure Your Azure: Proactive Tips for Cloud Protection",
         "author": "Webinar",
         "fullNews": "Discover how to boost your Azure cloud security with practical steps to help you maintain control and visibility.",
@@ -45,7 +45,7 @@
         "newsDate": "WizCloud Security"
     },
     {
-        "id": 41514211562972119728697935437716387642,
+        "id": 122051248766423643392124038765355410889,
         "headlines": "AI-Driven Ransomware FunkSec Targets 85 Victims Using Double Extortion Tactics",
         "author": "Trust Management SSL Certificate",
         "fullNews": "Cybersecurity researchers have shed light on a nascent artificial intelligence (AI) assisted ransomware family called FunkSec  that sprang forth in late 2024, and has claimed more than 85 victims to date.  \"The group uses double extortion tactics, combining data theft with encryption to pressure victims into paying ransoms,\" Check Point Research said  in a new report shared with The Hacker News. \"Notably, FunkSec demanded unusually low ransoms, sometimes as little as $10,000, and sold stolen data to third parties at reduced prices.\"  FunkSec launched its data leak site (DLS) in December 2024 to \"centralize\" their ransomware operations, highlighting breach announcements, a custom tool to conduct distributed denial-of-service (DDoS) attacks, and a bespoke ransomware as part of a ransomware-as-a-service (RaaS) model.  A majority of the victims are located in the U.S., India, Italy, Brazil, Israel, Spain, and Mongolia. Check Point's analysis of the group...",
@@ -54,7 +54,7 @@
         "newsDate": "Jan 10, 2025"
     },
     {
-        "id": 34408865939065593560313284456553199423,
+        "id": 289100300866508736556018205989594870018,
         "headlines": "E.U. Commission Fined for Transferring User Data to Meta in Violation of Privacy Laws",
         "author": "N/A",
         "fullNews": "The European General Court on Wednesday fined the European Commission, the primary executive arm of the European Union responsible for proposing and enforcing laws for member states, for violating the bloc's own data privacy regulations.  The development marks the first time the Commission has been held liable for infringing stringent data protection laws in the region.  The court determined  that a \"sufficiently serious breach\" was committed by transferring a German citizen's personal data, including their IP address and web browser metadata, to Meta's servers in the United States when visiting the now-inactive futureu.europa[.]eu website in March 2022.   The individual registered for one of the events on the site by using the Commission's login service, which included an option to sign in using a Facebook account.  \"By means of the 'Sign in with Facebook' hyperlink displayed on the E.U. Login webpage, the Commission created the conditions for t...",
@@ -63,7 +63,7 @@
         "newsDate": "Jan 09, 2025"
     },
     {
-        "id": 288910314410995729803457568086785806864,
+        "id": 272997596946930216372225667139489989420,
         "headlines": "Top 5 Malware Threats to Prepare Against in 2025",
         "author": "Vulnerability Data Privacy",
         "fullNews": "2024 had its fair share of high-profile cyber attacks, with companies as big as Dell and TicketMaster falling victim to data breaches and other infrastructure compromises. In 2025, this trend will continue. So, to be prepared for any kind of malware attack, every organization needs to know its cyber enemy in advance. Here are 5 common malware families that you can start preparing to counter right now.  Lumma  Lumma is a widely available malware designed to steal sensitive information. It has been openly sold on the Dark Web since 2022. This malware can effectively collect and exfiltrate data from targeted applications, including login credentials, financial information, and personal details.  Lumma is regularly updated to enhance its capabilities. It can log detailed information from compromised systems, such as browsing history and cryptocurrency wallet data. It can be used to install other malicious software on infected devices. In 2024, Lumma was distributed through various methods...",
@@ -72,7 +72,7 @@
         "newsDate": "Jan 08, 2025"
     },
     {
-        "id": 184077417462121776374659456738417921733,
+        "id": 265790771710429805917953934275987011519,
         "headlines": "India Proposes Digital Data Rules with Tough Penalties and Cybersecurity Requirements",
         "author": "Cloud Security",
         "fullNews": "The Indian government has published  a draft version of the Digital Personal Data Protection (DPDP) Rules for public consultation.  \"Data fiduciaries must provide clear and accessible information about how personal data is processed, enabling informed consent,\" India's Press Information Bureau (PIB) said  in a statement released Sunday.  \"Citizens are empowered with rights to demand data erasure, appoint digital nominees, and access user-friendly mechanisms to manage their data.\"  The rules, which seek to operationalize the Digital Personal Data Protection Act, 2023, also give citizens greater control over their data, providing them with options for giving informed consent to processing their information, as well as the right to erase with digital platforms and address grievances.  Companies operating in India are further required to implement security measures, such as encryption, access control, and data backups, to safeguard personal data, and ensure its c...",
@@ -81,7 +81,7 @@
         "newsDate": "Jan 06, 2025"
     },
     {
-        "id": 47648816942597988535217141279078105218,
+        "id": 100564763795196599961965431781424226414,
         "headlines": "⚡ THN Weekly Recap: Top Cybersecurity Threats, Tools and Tips [6 Jan]",
         "author": "N/A",
         "fullNews": "Every tap, click, and swipe we make online shapes our digital lives, but it also opens doors—some we never meant to unlock. Extensions we trust, assistants we rely on, and even the codes we scan are turning into tools for attackers. The line between convenience and vulnerability has never been thinner.  This week, we dive into the hidden risks, surprising loopholes, and the clever tricks cybercriminals are using to outsmart the systems we depend on.  Stay with us as we unpack what's happening behind the screen and how you can stay one step ahead.  ⚡ Threat of the Week  Dozens of Google Chrome Extensions Caught Stealing Sensitive Data — The challenges with securing the software supply chain reared once again after about three dozen extensions were found surreptitiously siphoning sensitive data  from roughly 2.6 million devices for several months as part of two related campaigns. The compromises came to light after data loss prevention service Cyberhaven revealed that its browser extens...",
@@ -90,7 +90,7 @@
         "newsDate": "Jan 06, 2025"
     },
     {
-        "id": 323494838181344724255871176602243624249,
+        "id": 295369075523391282614127288850710774451,
         "headlines": "Financial institutions double down on more checks for tech partners",
         "author": "N/A",
         "fullNews": "Signzy, a regulatory technology firm, suffered a massive data breach, leaking customer data of financial institutions.  This has prompted these institutions to evaluate backup service providers and tighten data-sharing norms.  The breach exposed customer IDs, addresses, contact numbers, and video recordings, raising concerns about the vulnerability of third-party data storage.",
@@ -99,7 +99,7 @@
         "newsDate": "N/A"
     },
     {
-        "id": 149023773864233184702574346483690834385,
+        "id": 91141819702305043421872289366366398123,
         "headlines": "ByteDance seeks $1.1 million damages from intern in AI breach case: Report",
         "author": "N/A",
         "fullNews": "China's ByteDance is suing a former intern for $1.1 million, alleging he deliberately attacked its artificial intelligence large language model training infrastructure, a case that has drawn widespread attention within China amid a heated AI race.",
@@ -108,7 +108,7 @@
         "newsDate": "N/A"
     },
     {
-        "id": 90608589127223438003135354591070637260,
+        "id": 265261130090444560982634978134508259078,
         "headlines": "UPDATE 1-New York fines Geico $9.8 million over data breach",
         "author": "N/A",
         "fullNews": "INSURANCE-DATAPROTECTION-New York fines Geico $9.8 million over data breach",
@@ -117,7 +117,7 @@
         "newsDate": "N/A"
     },
     {
-        "id": 220850149382392690684966643362376028561,
+        "id": 130832006644817961624055948907345196816,
         "headlines": "Facebook users affected by data breach eligible for compensation, German court says",
         "author": "N/A",
         "fullNews": "Facebook users affected by data breach eligible for compensation, German court says",
@@ -126,7 +126,7 @@
         "newsDate": "N/A"
     },
     {
-        "id": 106060294829266401358792486585300998537,
+        "id": 285946449197446818449109065261046658221,
         "headlines": "Turkey fines Amazon's Twitch 2 million lira for data breach",
         "author": "N/A",
         "fullNews": "Turkey's Personal Data Protection Board fined Twitch $58,000 for a data breach affecting 35,274 individuals in the country. The board found Twitch failed to implement adequate security measures before the breach and only addressed the issue afterward. The fine includes penalties for insufficient security and failing to report the breach.",
@@ -135,7 +135,7 @@
         "newsDate": "N/A"
     },
     {
-        "id": 233323547230356124147810688254268132767,
+        "id": 152320863145115193057777317531075304568,
         "headlines": "T-Mobile hacked in massive Chinese breach of telecom networks: Report",
         "author": "N/A",
         "fullNews": "\"T-Mobile is closely monitoring this industry-wide attack,\" a company spokesperson told Reuters in an email.",
@@ -144,7 +144,7 @@
         "newsDate": "N/A"
     },
     {
-        "id": 247555805087067302128939930779931922585,
+        "id": 270697382676076465164282248703752552537,
         "headlines": "German stats body says suffered possible data breach",
         "author": "N/A",
         "fullNews": "Germany's national statistics agency Destatis said Friday it had been the victim of a suspected data leak, following a media report that the organisation had been attacked by pro-Russian hackers. According to the NZZ, the attack was carried out by a group of pro-Russian hackers from Indonesia who have said they want to target NATO countries with their operations.",
@@ -153,7 +153,7 @@
         "newsDate": "N/A"
     },
     {
-        "id": 340085707992405707464657684384997120648,
+        "id": 65602557124586293546439732640045329895,
         "headlines": "German stats body says suffered possible data breach",
         "author": "N/A",
         "fullNews": "Germany's national statistics agency Destatis said Friday it had been the victim of a suspected data leak, following a media report that the organisation had been attacked by pro-Russian hackers. According to the NZZ, the attack was carried out by a group of pro-Russian hackers from Indonesia who have said they want to target NATO countries with their operations.",
@@ -162,7 +162,7 @@
         "newsDate": "N/A"
     },
     {
-        "id": 303592200653162044969705659654673175838,
+        "id": 224114930429872702581813530393800778460,
         "headlines": "Equinox discloses data breach involving health info of clients, staff",
         "author": "N/A",
         "fullNews": "EQUINOX-CYBERATTACK/Equinox discloses data breach involving health info of clients, staff",
@@ -171,7 +171,7 @@
         "newsDate": "N/A"
     },
     {
-        "id": 210691724613316862498986396453404601176,
+        "id": 185595254598467293823614048123111225081,
         "headlines": "Amazon confirms employee data hacked in the biggest cyberattack of 2023",
         "author": "N/A",
         "fullNews": "Amazon confirmed a data breach involving employee contact information due to a security lapse at a third-party property management vendor. The breach, linked to the MOVEit Transfer exploit, exposed work email addresses, phone numbers, and building locations. Amazon stated its core systems remain secure.",
@@ -180,7 +180,7 @@
         "newsDate": "N/A"
     },
     {
-        "id": 173662316853654984356636798602258196637,
+        "id": 142555905311386727777493916121200864807,
         "headlines": "Big crackdown on unauthorised use of PAN card details! Here’s what the government is doing",
         "author": "N/A",
         "fullNews": "Big crackdown on PAN details unauthorised use! The government is taking action against tech companies using citizen's data in an unauthorised way.  Many companies were using PAN numbers to access personal information like addresses and phone numbers.",
