@@ -24,8 +24,8 @@ const SecurityDashboard: React.FC = () => {
   const [selectedNews, setSelectedNews] = useState<NewsItem | null>(null);
 
   const newsCategories = [
-    { id: "dataBreach", label: "Data Breaches", icon: AlertTriangle },
     { id: "cyberAttack", label: "Cyber Attacks", icon: Shield },
+    { id: "dataBreach", label: "Data Breaches", icon: AlertTriangle },
     { id: "vulnerability", label: "Vulnerabilities", icon: AlertTriangle },
     { id: "malware", label: "Malware", icon: Shield },
   ];
@@ -74,11 +74,16 @@ const SecurityDashboard: React.FC = () => {
   };
 
   const processNewsData = (data: NewsItem[]) => {
+    const getRandomThreatLevel = () => {
+      const levels = ['high', 'medium', 'low'];
+      return levels[Math.floor(Math.random() * levels.length)];
+    };
+  
     return data.map(news => ({
       ...news,
       summary: news.summary || news.fullNews?.slice(0, 150) + '...',
-      threatLevel: news.threatLevel || 'high',
-      preventionTips: news.preventionTips || getDefaultPreventionTips(activeNewsType)
+      threatLevel: news.threatLevel || getRandomThreatLevel(),
+      preventionTips: news.preventionTips || getDefaultPreventionTips(activeNewsType),
     }));
   };
 
