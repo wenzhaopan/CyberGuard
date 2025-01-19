@@ -9,7 +9,7 @@ interface NewsItem {
   fullNews: string;
   summary?: string;
   preventionTips?: string[];
-  threatLevel?: 'low' | 'medium' | 'high';
+  threatLevel?: string;
   newsDate?: string;
   newsImgURL?: string;
   newsURL?: string;
