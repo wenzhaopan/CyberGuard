@@ -78,7 +78,7 @@ const EmailSubscription = () => {
             }}
             className="p-1 hover:bg-gray-100 rounded-full"
           >
-            <X className="h-5 w-5" />
+            <X className="h-5 w-5 text-black" />
           </button>
         </div>
         
