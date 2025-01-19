@@ -4,7 +4,8 @@ const fs = require('fs');
 const path = require('path');
 
 const app = express();
-const port = 5000;
+const port = 5001;
+const cors = require('cors');
 
 // Middleware for parsing JSON
 app.use(express.json());
@@ -13,6 +14,9 @@ app.use(express.json());
 app.get('/', (req, res) => {
     res.send('Hello, World!');
 });
+
+// Enable CORS for all origins
+app.use(cors());
 
 // Helper function to read a JSON file and send as a response
 const sendJsonFile = (res, filename) => {
@@ -28,7 +32,6 @@ const sendJsonFile = (res, filename) => {
 };
 
 // Endpoints for JSON files
-app.get('/generalNews', (req, res) => sendJsonFile(res, 'generalNews'));
 app.get('/dataBreachNews', (req, res) => sendJsonFile(res, 'dataBreachNews'));
 app.get('/cyberAttackNews', (req, res) => sendJsonFile(res, 'cyberAttackNews'));
 app.get('/vulnerabilityNews', (req, res) => sendJsonFile(res, 'vulnerabilityNews'));
