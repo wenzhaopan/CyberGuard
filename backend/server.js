@@ -59,8 +59,9 @@ app.post('/update-json', (req, res) => {
 // Path to emails.txt (adjust as needed)
 const EMAILS_FILE = path.join(__dirname, 'emails.txt');
 
-//Add Email Endpoint
-//Body should look like: { "email": "example@domain.com" }
+// Add Email Endpoint
+// 
+// Body should look like: { "email": "example@domain.com" }
 app.post('/add-email', (req, res) => {
     const { email } = req.body;
 
@@ -103,8 +104,8 @@ app.post('/add-email', (req, res) => {
 });
 
 
- //Remove Email Endpoint
- //Body should look like: { "email": "example@domain.com" }
+// Remove Email Endpoint
+// Body should look like: { "email": "example@domain.com" }
 app.post('/remove-email', (req, res) => {
     const { email } = req.body;
 
