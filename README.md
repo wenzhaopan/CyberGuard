@@ -47,6 +47,7 @@ As the digital world continues to grow, cyber threats are becoming increasingly 
 
 4. **Start the Frontend**
    ```bash
+   cd frontend
    npm run dev
 
 ## Usage 💻
